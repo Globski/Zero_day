@@ -1,17 +1,17 @@
-# how to code on my local computer
+# Learning how to code on my local computer
 
-##Learning Objectives
+## Learning Objectives
 
-###What is a virtual machine
+##### What is a virtual machine
 
-###What is Vagrant
+##### What is Vagrant
 
-###Who wrote Vagrant
+##### Who wrote Vagrant
 
-###What is Ubuntu
+##### What is Ubuntu
 
-###What does “Ubuntu” mean
+##### What does “Ubuntu” mean
 
-###How to use VMs with Vagrant
+##### How to use VMs with Vagrant
 
-###What does the command uname do
+##### What does the command uname do
